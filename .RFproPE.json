@@ -1,0 +1,65 @@
+{
+  "rfproversion": "v1.0 r01",
+  "defaultsettingsfile": ".RFproPE.json",
+  "settingsfiletoload": ".RFproPE.json",
+  "caltables": {
+    "Amalia": {
+      "comment": "10dB @Milmega 2-4GHz Output",
+      "frequencies": {
+        "2110": {
+          "PwrA_Offset": 1,
+          "PwrB_Offset": 2,
+          "PwrC_Offset": 3,
+          "PwrD_Offset": 2,
+          "SA_Offset": 3,
+          "DateTime": 7
+        },
+        "2140": {
+          "PwrA_Offset": 4,
+          "PwrB_Offset": 5,
+          "PwrC_Offset": 6,
+          "PwrD_Offset": 2,
+          "SA_Offset": 3,
+          "DateTime": 7
+        },
+        "2180": {
+          "PwrA_Offset": 7,
+          "PwrB_Offset": 8,
+          "PwrC_Offset": 9,
+          "PwrD_Offset": 2,
+          "SA_Offset": 3,
+          "DateTime": 7
+        }
+      }
+    },
+    "Dora": {
+      "comment": "10dB @Milmega 0.8-2GHz Output",
+      "frequencies": {
+        "3300": {
+          "PwrA_Offset": 1,
+          "PwrB_Offset": 2,
+          "PwrC_Offset": 3,
+          "PwrD_Offset": 2,
+          "SA_Offset": 3,
+          "DateTime": 7
+        },
+        "3500": {
+          "PwrA_Offset": 4,
+          "PwrB_Offset": 5,
+          "PwrC_Offset": 6,
+          "PwrD_Offset": 2,
+          "SA_Offset": 3,
+          "DateTime": 7
+        },
+        "3800": {
+          "PwrA_Offset": 7,
+          "PwrB_Offset": 8,
+          "PwrC_Offset": 9,
+          "PwrD_Offset": 2,
+          "SA_Offset": 3,
+          "DateTime": 7
+        }
+      }
+    }
+  }
+}
